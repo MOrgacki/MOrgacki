@@ -3,7 +3,7 @@
 ```dart
 print('I am also learning Dart langugage.');
 ```
-also
+and
 ```javascript
 console.log('Going deeper into smart contracts using Soldity');
 ```

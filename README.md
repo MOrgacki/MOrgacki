@@ -1,13 +1,10 @@
 ## Hi, I’m @MOrgacki👋
 #### Widely know from QA role but beside that
 
-```dart
-print('Playing around with Flutter framework. 📱 ');
-```
 ```javascript
-console.log('Going deeper into blockchin technologies. ₿');
+console.log('Diving deeper into Web3 technologies. ₿');
 ```
 ```python
-print("Performing Web Scraping and overall process automaton! 🤖")
+print("Performing web scraping and overall process automation! 🤖")
 ```
 #### 📫  Reach me via my [LinkedIn profile](https://www.linkedin.com/in/marcin-orgacki/)
